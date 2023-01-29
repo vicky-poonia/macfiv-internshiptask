@@ -1,0 +1,12 @@
+.find {
+    padding-left: 20px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 140%;
+    /* or 25px */
+
+
+    color: rgba(36, 40, 49, 0.3);
+}

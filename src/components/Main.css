@@ -1,0 +1,37 @@
+.heading {
+  font-weight: 700;
+  font-size: 26px;
+  padding-left: 20px;
+  padding-right: 10px;
+}
+.email {
+  color: #6b6b6b;
+}
+.left-side-content {
+  display: flex;
+}
+.left-box {
+  padding: 0 20px;
+  color: #928f8f;
+  border-right: 2px solid rgb(227, 221, 221);
+}
+.left-box span {
+  font-weight: 450;
+  color: black;
+}
+.right-side-content {
+  display: flex;
+  flex-direction: row-reverse;
+}
+.right-box {
+  padding-right: 30px;
+}
+.right-box .report{
+    color:#29B712 ;
+  }
+
+  /* .p{
+    padding-bottom: 100px;
+    justify-content: center;
+    justify-items: center;
+  } */

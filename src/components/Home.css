@@ -1,0 +1,20 @@
+.card-data {
+  display: flex;
+  flex-direction: row;
+  margin: 50px;
+  /* border: 1px solid yellow; */
+  box-shadow: 0 0 1px rgb(201, 197, 197);
+}
+
+.verticalnav-left {
+  width: 10%;
+  height: 800px;
+  border-right: 1px solid gainsboro;
+}
+.content-right {
+  padding: 20px;
+  width: 90%;
+  height: 1050px;
+  /* overflow-y: auto; */
+  overflow: hidden;
+}
